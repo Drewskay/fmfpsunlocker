@@ -5,7 +5,7 @@
 4. FPS Will Be Unlocked To Infinite, It Will Also Apply The Best GTA V Settings For FPS!
 
 # FAQ
-  1. **fmfpsunlocker.zip Is Being Detected As A Virus/Malaware. What Do I Do?**
+  1. **fmfpsunlocker.zip Is Being Detected As A Virus/Malware. What Do I Do?**
 
 Any Detections Are False Positives. This Is Caused By The File Access Needed Into FiveM/Grand Theft Auto 5. Create A Exception For ``fmfpsunlocker.exe`` (Or The Folder It Is Located In)
 
