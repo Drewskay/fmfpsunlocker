@@ -3,7 +3,7 @@
 2. Extract ``fmfpsunlocker.zip`` Into A Folder
 3. Run ``fmfpsunlocker.exe`` Before You Start FiveM
 4. FPS Will Be Unlocked To Infinite, It Will Also Apply The Best GTA V Settings For FPS!
-5. Virus Total (Check What Anti-Viruses Check It) [VT](https://www.virustotal.com/gui/file/847a483aa92bab84a260a6d67b43819808a5de5728924c6c8c65c6ba094d028c/detection)
+5. Virus Total (Check What Anti-Viruses Mark It) [VT](https://www.virustotal.com/gui/file/847a483aa92bab84a260a6d67b43819808a5de5728924c6c8c65c6ba094d028c/detection)
 
 # FAQ
   1. **fmfpsunlocker.zip Is Being Detected As A Virus/Malware. What Do I Do?**
